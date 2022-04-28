@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dierksen
-- I'm a software engineer at Aurora.
+- I'm a software engineer at Square.
 - I'm primarily interested in developer productivity tools, especially Bazel, VSCode, and other common workflow items.
 
 <!---
